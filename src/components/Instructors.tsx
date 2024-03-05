@@ -37,7 +37,7 @@ const instructors = [
 function Instructors() {
   return (
     <div className="relative h-[40rem] flex items-center justify-center">
-      <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col justify-center items-center h-full"waveOpacity={1}>
+      <WavyBackground className="w-full max-w-5xl mx-auto flex flex-col justify-center items-center h-full"waveOpacity={1}>
         <h2 className="text-2xl sm:text-4xl lg:text-6xl text-center font-bold text-white mb-8">
           Meet Our Instructors
         </h2>
